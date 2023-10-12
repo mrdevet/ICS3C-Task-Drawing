@@ -1,3 +1,0 @@
-# Programmer: 
-# Description: 
-
